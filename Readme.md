@@ -1,4 +1,7 @@
 ATM SIMULATOR IN PYTHON
+![image](https://github.com/user-attachments/assets/6fe1cacb-9bc8-4eaf-a03e-58d1a8006fac)
+
+
 
 Username: user2
 
