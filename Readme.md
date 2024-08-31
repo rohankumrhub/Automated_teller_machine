@@ -12,8 +12,5 @@ Pin code: 2222
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
 
-
-
-THANK YOU FOR DOWNLOADING :) 
+THANK YOU :) 
