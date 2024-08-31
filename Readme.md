@@ -1,5 +1,6 @@
 ATM SIMULATOR IN PYTHON
-![image](https://github.com/user-attachments/assets/6fe1cacb-9bc8-4eaf-a03e-58d1a8006fac)
+![image](https://github.com/user-attachments/assets/1df7f986-803a-40e4-9f75-04e98af283b3)
+
 
 
 
